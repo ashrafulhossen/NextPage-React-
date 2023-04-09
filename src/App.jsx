@@ -7,7 +7,7 @@ const App = () => {
 	return (
 		<div className="">
 			<Header />
-			<div className="min-h-[79vh] py-4 lg:px-10 2xl:mx-36 xl:mx-20 lg:mx-0 mx-0">
+			<div className="min-h-[79vh] py-4 px-4 lg:px-10 2xl:mx-36 xl:mx-20 lg:mx-0 mx-0">
 				<Outlet />
 			</div>
 			<Footer />

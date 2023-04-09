@@ -34,7 +34,7 @@ const Header = () => {
 					isMenuShow
 						? "flex flex-col mt-12 absolute top-12"
 						: "hidden"
-				} lg:flex lg:flex-row lg:static lg:mt-0 lg:items-center lg:gap-8`}
+				} lg:flex lg:flex-row lg:static lg:mt-0 lg:items-center lg:gap-8 gap-2`}
 			>
 				<NavLink
 					to="/"
